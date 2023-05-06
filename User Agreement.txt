@@ -1,0 +1,15 @@
+This User Agreement ("Agreement") is between the user ("User") and the developer ("Developer") of the this software ("Software").
+
+License Grant. Developer grants to User a non-exclusive, non-transferable license to use the Software for personal, non-commercial purposes. User may not sublicense the Software.
+
+Intellectual Property. Developer retains all intellectual property rights to the Software and any accompanying documentation. User may not copy, or modify the Software without Developer's prior written consent.
+
+Warranty Disclaimer. Developer makes no warranties, express or implied, regarding the Software. The Software is provided "as is" and User assumes all risks associated with its use.
+
+Limitation of Liability. Developer shall not be liable for any damages arising out of User's use or inability to use the Software, including but not limited to direct, indirect, special, or consequential damages.
+
+Indemnification. User agrees to indemnify and hold Developer harmless from any claims or damages arising out of User's use of the Software.
+
+Termination. Developer may terminate this Agreement if User breaches any of its terms. Upon termination, User must immediately cease all use of the Software.
+
+By using the Software, User agrees to be bound by this Agreement. If User does not agree to the terms of this Agreement, User may not use the Software.
